@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FinCovRegularization"]
+	path = FinCovRegularization
+	url = https://github.com/yanyachen/fincovregularization
+	shallow = true
+	registered = true
+[submodule "MLmetrics"]
+	path = MLmetrics
+	url = https://github.com/yanyachen/mlmetrics
+	shallow = true
+	registered = true
+[submodule "rBayesianOptimization"]
+	path = rBayesianOptimization
+	url = https://github.com/yanyachen/rbayesianoptimization
+	shallow = true
+	registered = true

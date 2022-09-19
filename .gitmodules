@@ -8,11 +8,6 @@
 	url = https://github.com/yanyachen/fincovregularization
 	shallow = true
 	registered = true
-[submodule "MLmetrics"]
-	path = MLmetrics
-	url = https://github.com/yanyachen/mlmetrics
-	shallow = true
-	registered = true
 [submodule "rBayesianOptimization"]
 	path = rBayesianOptimization
 	url = https://github.com/yanyachen/rbayesianoptimization

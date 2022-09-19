@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "MLmetrics",
-    "oncran": true
-  },
-  {
     "package": "rBayesianOptimization",
     "oncran": true
   }
